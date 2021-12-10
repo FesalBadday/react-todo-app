@@ -1,5 +1,13 @@
 # React Todo App
 
+**Author :** Fesal Badday
+
+**Repo :** [Github Repo](https://github.com/FesalBadday/react-todo-app)
+**Site :** [Netlify](https://todo-265.netlify.app/)
+
+**Information :**
+- React Todo App
+
 ## Attributions :
 
 - [Web Dev Simplified](https://www.youtube.com/watch?v=hQAHSlTtcmY).
